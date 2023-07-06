@@ -1,11 +1,11 @@
 public class GuessingGame {
 
     public static void main(String[] args) {
-        int secretNumber = 5;
-        int usersGuess = 5;
+        int secretNumber = 7;
+        int usersGuess = 7;
 
         if (usersGuess == secretNumber) {
-            System.out.println("Congratulations, you win!");
+            System.out.println("you wont!");
 
         }
 
