@@ -5,7 +5,7 @@ public class GuessingGame {
         int usersGuess = 7;
 
         if (usersGuess == secretNumber) {
-            System.out.println("you wont!");
+            System.out.println("you won!");
 
         }
 
